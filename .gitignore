@@ -3,7 +3,6 @@ DragonRig
 ExpressionsTool
 Garbage
 LandVehicleRigTool
-MiscTools
 ModularRigTool
 PickerTool
 PoolTool
@@ -11,6 +10,9 @@ PoseTransferTool
 ProceduralSynthetiser
 RibbonTool
 Techniques
-Utils
 VehicleRigTool
 RigLibrary
+AutoRigTool
+BipedalRigTool
+QuadrupedalRigTool
+SkinSaverTool
