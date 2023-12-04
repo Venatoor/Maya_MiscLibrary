@@ -1,0 +1,3 @@
+from QuadrupedalRigTool import Quadrupedal
+from QuadrupedalRigTool import Quadrupedal_Deformer
+from QuadrupedalRigTool import Project

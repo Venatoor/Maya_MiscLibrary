@@ -1,0 +1,7 @@
+import maya.cmds as mc
+from BipedalRigTool import Bipedal
+from BipedalRigTool import Bipedal_Deformer
+
+
+geoList = ["humanMaleAverage","EyesInner"]
+Bipedal_Deformer.saveSkinWeights("humanoid", geoList)

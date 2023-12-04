@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/RibbonTool/ribbon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RibbonTool/ribbonMaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RigLibrary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Techniques/RibbonTool" vcs="Git" />
+  </component>
+</project>
